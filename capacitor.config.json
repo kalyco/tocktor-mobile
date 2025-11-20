@@ -1,0 +1,10 @@
+{
+  "appId": "com.kayla.tocktor",
+  "appName": "Tocktor",
+  "webDir": "dist",
+  "server": {
+    "url": "https://tocktor.com",
+    "cleartext": false
+  }
+}
+
